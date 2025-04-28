@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Crysis-X/curly-disco#readme",
   "dependencies": {
-    "chrome-aws-lambda": "^10.1.0",
-    "puppeteer-core": "^24.7.2"
+    "chrome-aws-lambda": "10.1.0",
+    "puppeteer-core": "10.4.0"
   }
 }
